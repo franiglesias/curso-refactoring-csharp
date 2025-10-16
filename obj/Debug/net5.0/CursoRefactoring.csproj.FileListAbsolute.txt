@@ -1,0 +1,5 @@
+/Users/frankie/Curso Refactoring/curso-refactoring c#/obj/Debug/net5.0/CursoRefactoring.csprojAssemblyReference.cache
+/Users/frankie/Curso Refactoring/curso-refactoring c#/obj/Debug/net5.0/CursoRefactoring.GeneratedMSBuildEditorConfig.editorconfig
+/Users/frankie/Curso Refactoring/curso-refactoring c#/obj/Debug/net5.0/CursoRefactoring.AssemblyInfoInputs.cache
+/Users/frankie/Curso Refactoring/curso-refactoring c#/obj/Debug/net5.0/CursoRefactoring.AssemblyInfo.cs
+/Users/frankie/Curso Refactoring/curso-refactoring c#/obj/Debug/net5.0/CursoRefactoring.csproj.CoreCompileInputs.cache
