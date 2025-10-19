@@ -64,3 +64,5 @@ tmp/
 ~$*
 /data/
 !/data/products.json
+/obj/
+/bin/
