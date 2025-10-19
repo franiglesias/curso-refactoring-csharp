@@ -32,9 +32,9 @@ namespace CalisthenicsExercises
     /*
     Ejercicio (refactorizar hacia la regla):
     - Introducir un tipo de colección de primera clase Products con la lista oculta dentro:
-      1) Encapsular los comportamientos add, has, totalPrice dentro de Products.
-      2) Exponer la iteración mediante métodos, no la lista cruda.
-      3) Prohibir la mutación externa; proveer operaciones que revelen intención.
+      1) Encapsular los comportamientos.
+      2) Exponer la iteración mediante métodos.
+      3) Prohibir la mutación externa.
     - Aceptación: Ninguna función del módulo manipula directamente List<Product> cruda; todas pasan por la clase Products.
     */
 }

@@ -91,10 +91,7 @@ namespace CalisthenicsExercises
 
     /*
     Ejercicio (refactorizar hacia la regla):
-    - Dividir responsabilidades en entidades pequeñas y cohesivas:
-      1) Parser (JsonReportParser), Validador (ReportSchema), Formateador (CsvFormatter), Repositorio (ReportStore), Servicio (ReportGenerator).
-      2) Cada clase debe ser pequeña y enfocada; métodos <= 10 líneas donde sea posible.
-      3) Reemplazar el delimitador primitivo con un tipo u objeto de configuración.
+    - Dividir responsabilidades en entidades pequeñas y cohesivas.
     - Aceptación: No hay clase dios; el sistema se compone de entidades pequeñas y de propósito único.
     */
 }

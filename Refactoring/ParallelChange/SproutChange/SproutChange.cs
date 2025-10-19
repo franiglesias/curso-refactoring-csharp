@@ -1,3 +1,7 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
 // Técnica de refactorización: Cambio en Paralelo mediante Sprout
 // Propósito: Practicar la introducción de nuevo comportamiento añadiendo (haciendo brotar) código nuevo,
 // manteniendo el código antiguo funcionando para poder migrar los puntos de llamada de forma gradual y segura.

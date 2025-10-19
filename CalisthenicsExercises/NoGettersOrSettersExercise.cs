@@ -37,9 +37,9 @@ namespace CalisthenicsExercises
     /*
     Ejercicio (refactorizar hacia la regla):
     - Mover el comportamiento dentro del objeto y eliminar getters/setters:
-      1) Proveer métodos que revelen intención: deposit(amount), withdraw(amount), pay(amount).
-      2) Mantener las invariantes internas; no exponer el balance crudo.
-      3) Usar consultas que revelen intención (canWithdraw(amount)) en lugar de get/set.
+      1) Proveer métodos que revelen intención.
+      2) Mantener las invariantes internas.
+      3) Usar consultas que revelen intención.
     - Aceptación: No hay getters/setters públicos; el comportamiento vive con los datos.
     */
 }

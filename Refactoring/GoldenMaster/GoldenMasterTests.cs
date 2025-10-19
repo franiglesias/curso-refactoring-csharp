@@ -1,7 +1,10 @@
-using NUnit.Framework;
-using CursoRefactoring.Refactoring.GoldenMaster;
+using System;
+using System.Collections.Generic;
+using System.IO;
 using System.Text;
 using System.Text.RegularExpressions;
+using NUnit.Framework;
+using CursoRefactoring.Refactoring.GoldenMaster;
 
 namespace CursoRefactoring.Refactoring.GoldenMaster.Tests
 {

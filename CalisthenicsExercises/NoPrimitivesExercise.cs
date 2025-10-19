@@ -25,7 +25,7 @@ namespace CalisthenicsExercises
     /*
     Ejercicio (refactorizar hacia la regla):
     - Introducir tiny types/value objects:
-      1) Money (monto + moneda con invariantes), Iban, AccountId, NonEmptyString.
+      1) Money.
       2) Validar dentro de constructores/fábricas en lugar de ifs dispersos.
       3) Reemplazar la firma de la función con tipos de dominio para prevenir mal uso.
     - Aceptación: la firma de transfer no contiene primitivos desnudos para conceptos de dominio.
